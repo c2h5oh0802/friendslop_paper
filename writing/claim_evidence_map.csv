@@ -1,0 +1,12 @@
+claim_id,claim_text,claim_type,current_strength,status,supporting_evidence_ids,contradicting_evidence_ids,target_chapter,allowed_wording,prohibited_overclaim,next_action
+CLM-001,"Friendslop 與玩家社群使用及社會實踐有關，不能只當成固定機制清單。",literature_claim,moderate,PARTIAL,EVD-005,,1;2,"Hurezeanu 等將 Friendslop 放在類型與社會實踐脈絡討論。","Friendslop 完全不涉及形式特徵。","回原文補頁碼與限定語"
+CLM-002,"Lethal Company、Content Warning、R.E.P.O. 與 PEAK 曾在同一篇 Friendslop 研究中被提到。",case_selection_claim,narrow,PARTIAL,EVD-005,,1;3,"本文依文獻明確提到的四款作品選擇案例。","四款代表全部或最典型 Friendslop。","核對四款上下文與頁碼"
+CLM-003,"LFCG 提供四個合作遊戲分析面向。",framework_claim,narrow,PARTIAL,EVD-004,,2;3,"LFCG 從四個面向整理合作遊戲。","四面向已由本研究完整驗證。","核對正式名稱與定義頁碼"
+CLM-004,"LFCG 可作為四案例使用同一欄位比較的主要工具。",method_choice,limited,PARTIAL,EVD-004,,2;3,"本文使用 LFCG 建立一致的案例分析表。","LFCG 是唯一或最佳方法。","完成一至兩款試編碼"
+CLM-005,"LFCG 設計模式可由後續研究補充。",framework_claim,narrow,PARTIAL,EVD-004,,2;4,"若原文確認，可說框架保留擴充空間。","本文已替 LFCG 建立新模式。","補原文頁碼並檢查候選與既有分類重疊"
+CLM-006,"四款案例具有若干反覆出現的合作設計。",case_finding,unknown,HYPOTHESIS,,,4,"四案例分析後，若證據一致再列出具體項目。","目前已證明三項共同要素。","完成四款完整 LFCG 編碼與反例搜尋"
+CLM-007,"共同搬運效益會增加玩家互賴行為。",causal_hypothesis,unknown,HYPOTHESIS,,,3;4,"V-CARRY-01 預測共同搬運效益會增加請求、共同操作與分工。","共同搬運一定更好玩或更有社交效果。","完成先導、確認操弄與主要指標"
+CLM-008,"近距離語音會改變資訊傳遞與重新集合行為。",causal_hypothesis,unknown,HYPOTHESIS,,,3;4,"只在受控任務與操弄被遇到時測試。","近距離語音一定增加合作。","建立分散資訊任務與全域語音對照"
+CLM-009,"死亡後保留有限支援能力會改變玩家參與。",causal_hypothesis,unknown,HYPOTHESIS,,,3;4,"可測死亡後參與，不先等同整場互賴。","較晚遊戲證明整個類型發生設計轉向。","固定死亡狀態與支援能力測試"
+CLM-010,"老師認為目前方向沒有重大問題。",advisor_feedback,narrow,SUPPORTED,EVD-001,,project_record,"2026-08-18 會談中，老師未指出重大方向問題。","老師已正式核准所有題目、分類和實驗。","若有書面回覆再補來源"
+CLM-011,"老師要求玩家互賴實驗更具體。",advisor_feedback,narrow,SUPPORTED,EVD-001,,3;project_record,"老師要求說明如何具體測試設計變化對玩家互賴的作用。","老師已指定 V-CARRY-01。","下次向老師確認第一個變化與主要指標"

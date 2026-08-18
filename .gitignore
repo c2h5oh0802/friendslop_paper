@@ -1,0 +1,43 @@
+# 原始影音與大型檔案：只保存於私有研究儲存空間，Repository 僅放索引與雜湊值
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.mp3
+*.flac
+*.zip
+*.7z
+
+# 可能含個資、聯絡方式、簽名或身分對照的資料
+data/raw/**
+data/private/**
+participants/**
+consent/**
+**/*participant_key*
+**/*identity_key*
+**/*contact_list*
+**/*consent_form*
+
+# 允許保留目錄說明
+!data/raw/README.md
+!data/private/README.md
+
+# 本機分析輸出與暫存
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.bak
+
+# 文字處理與統計工具產生的非必要快取
+.cache/
+build/
+dist/

@@ -1,0 +1,5 @@
+source_id,authors,year,title,venue_or_type,role_in_research,reading_status,claim_verification_status,full_text_location,notes
+LIT-001,"Pais, P. et al.",2024,"A Living Framework for Understanding Cooperative Games","CHI 2024","主要合作遊戲分析框架",partially_read,pending_page_check,"private literature storage","目前已知四個面向與框架可擴充；正式分類與頁碼待回原文核對"
+LIT-002,"Hurezeanu, A. et al.",2026,"Genre as Gamevironment: Epistemic Genres Beyond Play","Gamevironments 24","Friendslop 的類型與案例來源",partially_read,pending_page_check,"private literature storage","目前用於追溯四款案例與社會實踐觀點；不得擴大成完整類型定義"
+LIT-003,"Wuertz, J. et al.",2018,"A Design Framework for Awareness Cues in Distributed Multiplayer Games","CHI 2018","可能補充空間與狀態覺察",acquired_not_read,not_verified,"private literature storage","是否適合分析近距離語音仍待確認，不先放入正式論證"
+LIT-004,"Consalvo, M.; Dutton, N.",2006,"Game analysis method source; exact title to verify","article","可能補充遊戲分析方法",not_acquired,not_verified,"","先前討論只記作者與年份；正式篇名、出版資訊和適用性待查"

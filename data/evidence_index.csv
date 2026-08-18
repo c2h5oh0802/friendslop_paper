@@ -1,6 +1,6 @@
 evidence_id,evidence_type,date,source_id,case_id,session_id,description,repository_location,external_or_private_location,page_or_timestamp,claim_or_decision_ids,status,verification_notes
 EVD-001,advisor_meeting_summary,2026-08-18,MEET-20260818-01,,,研究者會後轉述：方向無重大問題；互賴實驗需更具體；實驗口試前非必要；口試影片為主；前三章早交,meetings/2026-08-18_advisor_meeting.md,"no transcript available",,"DEC-003;DEC-004;DEC-005;DEC-006",usable_with_limit,"不是逐字稿，正式措辭不可寫成老師逐句原話"
-EVD-002,internal_planning_document,2026-08-18,DOC-001,,,老師討論用直白版研究架構，內容已拆入研究狀態與方法文件,project/research_state.md,"Friendslop_研討會論文_老師討論用_直白版_2026-08-18.docx",,"DEC-001;DEC-002",distilled,"原 DOCX 未提交；以 Repository 文字版本作後續工作入口"
+EVD-002,internal_planning_document,2026-08-18,DOC-001,,,老師討論用直白版研究架構，內容已拆入研究狀態與方法文件,archive/2026-08-18_teacher_discussion_handout.md,"Friendslop_研討會論文_老師討論用_直白版_2026-08-18.docx",,"DEC-001;DEC-002",distilled,"原始 DOCX SHA-256: aa50c86534449f96b7af1b11965143b6dbe69cc0c0649b389ecc2fbaa78f0bda；文字快照用於搜尋，正式現況以最新狀態與決策檔為準"
 EVD-003,internal_planning_document,2026-08-17,DOC-002,,,早期研究架構討論稿，包含三項候選要素與原始章節規劃,project/decision_log.md,"Friendslop_研討會論文_研究架構討論稿_2026-08-17.docx",,"historical context",superseded,"部分研究問題與主張已修正，不可直接當目前定案"
 EVD-004,literature,2024,LIT-001,,,LFCG 四面向與分類來源,literature/notes/LIT-001_pais_2024_lfcg.md,"private literature storage",,"CLM-003;CLM-004;CLM-005",pending,"需補全文頁碼與正式定義"
 EVD-005,literature,2026,LIT-002,,,Friendslop 社會實踐討論與四案例來源,literature/notes/LIT-002_hurezeanu_2026_friendslop.md,"private literature storage",,"CLM-001;CLM-002",pending,"需補全文頁碼與案例上下文"

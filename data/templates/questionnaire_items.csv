@@ -1,0 +1,7 @@
+item_id,construct,item_text_zh,response_scale,reverse_scored,status,notes
+Q-INT-01,interdependence,"我需要隊友的行動或資訊才能推進任務。","1=非常不同意;7=非常同意",FALSE,working_item,"自訂題目，未視為已驗證量表"
+Q-INT-02,interdependence,"隊友需要我的貢獻才能完成任務。","1=非常不同意;7=非常同意",FALSE,working_item,"自訂題目，未視為已驗證量表"
+Q-INT-03,coordination,"我們必須協調分工或行動時機。","1=非常不同意;7=非常同意",FALSE,working_item,"自訂題目，未視為已驗證量表"
+Q-INT-04,solo_feasibility,"即使沒有隊友，我也能用差不多的方式完成任務。","1=非常不同意;7=非常同意",TRUE,working_item,"反向題"
+Q-CTL-01,difficulty,"我覺得這個版本的任務很困難。","1=非常不同意;7=非常同意",FALSE,control_item,"用來區分困難與互賴"
+Q-CTL-02,enjoyment,"我覺得這個版本的遊玩過程有趣。","1=非常不同意;7=非常同意",FALSE,control_item,"不把此題單獨當成體驗效果證明"

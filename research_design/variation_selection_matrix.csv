@@ -1,0 +1,6 @@
+variation_id,design_change,baseline,treatment,interdependence_path,implementation_cost,video_observability,main_confound,pre_oral_feasibility,current_priority,status,notes
+V-CARRY-01,"共同搬運效益","一人與多人搬運速度相同","多人搬運比單人明顯有效率","玩家呼叫、加入、同步與分工",medium,high,"可能只反映速度差或困難",high,1,working_recommendation,"若原型支援多人操作，最適合先導；參數需實測"
+V-INFO-01,"資訊分散","所有玩家看到完整資訊","每位玩家只持有任務所需的一部分資訊","必須請求、轉達與整合資訊",medium,high,"可能只反映記憶負荷",high,2,candidate,"因果路徑清楚，可作第二選擇"
+V-COMM-01,"語音可達範圍","全域語音","受距離或空間限制的語音","玩家需集合或透過中繼傳話",medium,medium,"可能只是溝通受阻而非互賴增加",medium,3,candidate,"任務必須讓玩家分散並交換不同資訊"
+V-DEATH-01,"失去行動後參與","只能觀戰","保留有限 Ping／提示能力","存活玩家依賴失去行動者的有限支援",medium,medium,"只在死亡發生時有資料，較像參與而非整場互賴",low,4,deferred,"不建議第一個測試"
+V-PROG-01,"跨場次能力進度","能力不跨獨立進程保留","能力可跨場次累積","隊友能力差距可能改變分工與依賴",high,low,"需要長期場次，受經驗與缺席影響",low,5,deferred,"先作案例結構分析"
